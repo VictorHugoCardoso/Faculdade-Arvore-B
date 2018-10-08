@@ -1,0 +1,4 @@
+C:/Users/victo/Documents/faculdade/trabsonOrgArq/base/arvores.txt
+C:/Users/victo/Documents/faculdade/trabsonOrgArq/base/conto.txt
+C:/Users/victo/Documents/faculdade/trabsonOrgArq/base/divisao.txt
+C:/Users/victo/Documents/faculdade/trabsonOrgArq/base/ipe.txt
